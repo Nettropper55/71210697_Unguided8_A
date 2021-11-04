@@ -1,0 +1,17 @@
+Judul
+Menjumlah deret bilangan 2001+2002+2003+.........+3998+3999+4000 = ?
+
+Deskripsi
+var n, a, Un;
+
+Implementasi
+IF 	n 	= 2000
+	a	=2001
+	Un	=4000
+
+Then:	Sn 	= (n/2)(a + Un)
+	S2000 	= (2000/2)(2001 + 4000)
+	S2000 	= (1000)(2001 + 4000)
+	S2000 	= (1000)(6001)
+	S2000 	= 6.001.000
+Write(Sn)
