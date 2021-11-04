@@ -1,0 +1,12 @@
+Terdapat 4 buah cangkir kosong (4, 9, 5, 7) yang akan di isi dengan kopi. Berdasarkan
+ilustrasi gambar di bawah, tentukan cangkir mana yang terisi lebih dahulu serta berikan
+penjelasannya !
+Jawab:
+Cangkir yang akan terisi lebih dahulu adalah cangkir nomor 9. Alasan saya memilih cangkir
+nomor 9 adalah dengan melihat hukum hidrostatis dimana cairan akan mengisi ruang yang
+ada dan sifat air dimana ketinggian air akan selalu sama, maka air akan mengalir dahulu ke
+ arah kiri. Kemudian di ruang kedua terdapat pilihan ruang 4 dan 9. Melihat lagi dengan hukum 
+hidrostatis maka seharusnya air akan mengalir kearah cangkir 4. Namun Pada saluran yang mengarah 
+kecangkir 4 terdapat pembatas maka air tidak akan mengalir ke cangkir 4. Cairan kemudian akan
+mengisi cangkir 9. 
+
